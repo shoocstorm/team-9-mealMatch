@@ -56,7 +56,10 @@ npm install
 ```
 
 4. **Start the development server:**
+
 ```bash
+
+# Need to specify the env variables for firebase. either use .env file or use set var1=value1
 npm start
 ```
 
